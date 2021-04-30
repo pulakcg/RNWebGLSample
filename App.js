@@ -28,7 +28,6 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 import Unity from 'react-native-unity-webgl';
 
-
 const App: () => Node = () => {
   return (
     <SafeAreaView>
